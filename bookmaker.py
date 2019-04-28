@@ -1,5 +1,5 @@
 '''
-This CNN uses CuDNNLSTM over of LSTM
+This CNN uses CuDNNLSTM over LSTM
 It's much faster than LSTM.
 This script to generates a newly generated paragraph in the style from any online text source
 I'm using the online gutenberg book repo. (/files/2600/2600-0.txt = War and peace).
